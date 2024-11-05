@@ -1,6 +1,6 @@
 {
   "chain": {
-    "info-json": "[{\"chain-id\":696,\"parent-chain-id\":421614,\"parent-chain-is-arbitrum\":true,\"chain-name\":\"Fashion Chain Devnet\",\"chain-config\":{\"homesteadBlock\":0,\"daoForkBlock\":null,\"daoForkSupport\":true,\"eip150Block\":0,\"eip150Hash\":\"0x0000000000000000000000000000000000000000000000000000000000000000\",\"eip155Block\":0,\"eip158Block\":0,\"byzantiumBlock\":0,\"constantinopleBlock\":0,\"petersburgBlock\":0,\"istanbulBlock\":0,\"muirGlacierBlock\":0,\"berlinBlock\":0,\"londonBlock\":0,\"clique\":{\"period\":0,\"epoch\":0},\"arbitrum\":{\"EnableArbOS\":true,\"AllowDebugPrecompiles\":false,\"DataAvailabilityCommittee\":false,\"InitialArbOSVersion\":32,\"GenesisBlockNum\":0,\"MaxCodeSize\":24576,\"MaxInitCodeSize\":49152,\"InitialChainOwner\":\"0x787854005705c5e38a75Af0f153AD9566bEf0025\"},\"chainId\":696},\"rollup\":{\"bridge\":\"0x145eBc5C9905853F4EB0C910bc7B4854135D5962\",\"inbox\":\"0x9f4d63678642983fC19B625a6504eE03a0a87a8B\",\"sequencer-inbox\":\"0xBf611F610Ce701aA3132623B144dE20565a3104d\",\"rollup\":\"0xB6FFA9c5dF33FF1B40A7E61eeE7858Da5646A424\",\"validator-utils\":\"0x7C100c97a54e2D309a194752Df2f66922A802be3\",\"validator-wallet-creator\":\"0xFAd2C6Cb969Ab7B18d78BD63e512b650bb70B570\",\"deployed-at\":94173024}}]",
+    "info-json": "[{\"chain-id\":8383,\"parent-chain-id\":421614,\"parent-chain-is-arbitrum\":true,\"chain-name\":\"Fashion Chain Devnet\",\"chain-config\":{\"homesteadBlock\":0,\"daoForkBlock\":null,\"daoForkSupport\":true,\"eip150Block\":0,\"eip150Hash\":\"0x0000000000000000000000000000000000000000000000000000000000000000\",\"eip155Block\":0,\"eip158Block\":0,\"byzantiumBlock\":0,\"constantinopleBlock\":0,\"petersburgBlock\":0,\"istanbulBlock\":0,\"muirGlacierBlock\":0,\"berlinBlock\":0,\"londonBlock\":0,\"clique\":{\"period\":0,\"epoch\":0},\"arbitrum\":{\"EnableArbOS\":true,\"AllowDebugPrecompiles\":false,\"DataAvailabilityCommittee\":false,\"InitialArbOSVersion\":32,\"GenesisBlockNum\":0,\"MaxCodeSize\":24576,\"MaxInitCodeSize\":49152,\"InitialChainOwner\":\"0x787854005705c5e38a75Af0f153AD9566bEf0025\"},\"chainId\":8383},\"rollup\":{\"bridge\":\"0xB31a314BCeB162816e3A097988c7c5B5328F6503\",\"inbox\":\"0x5047c957CDa5295275cCEE9FbD494af9D32aA916\",\"sequencer-inbox\":\"0x6E2afc32C4B5350df6306e63365D8ef1d471a50a\",\"rollup\":\"0x4035E80820Cd530e30745e71edD99f7f3FC1611a\",\"validator-utils\":\"0x7C100c97a54e2D309a194752Df2f66922A802be3\",\"validator-wallet-creator\":\"0xFAd2C6Cb969Ab7B18d78BD63e512b650bb70B570\",\"deployed-at\":94586256}}]",
     "name": "Fashion Chain Devnet"
   },
   "parent-chain": {
@@ -9,7 +9,7 @@
     }
   },
   "http": {
-    "addr": "34.170.191.218",
+    "addr": "0.0.0.0",
     "port": 8449,
     "vhosts": [
       "*"
