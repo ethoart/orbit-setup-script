@@ -1,7 +1,7 @@
 {
   "chain": {
-    "info-json": "[{\"chain-id\":8383,\"parent-chain-id\":421614,\"parent-chain-is-arbitrum\":true,\"chain-name\":\"Fashion Chain Devnet\",\"chain-config\":{\"homesteadBlock\":0,\"daoForkBlock\":null,\"daoForkSupport\":true,\"eip150Block\":0,\"eip150Hash\":\"0x0000000000000000000000000000000000000000000000000000000000000000\",\"eip155Block\":0,\"eip158Block\":0,\"byzantiumBlock\":0,\"constantinopleBlock\":0,\"petersburgBlock\":0,\"istanbulBlock\":0,\"muirGlacierBlock\":0,\"berlinBlock\":0,\"londonBlock\":0,\"clique\":{\"period\":0,\"epoch\":0},\"arbitrum\":{\"EnableArbOS\":true,\"AllowDebugPrecompiles\":false,\"DataAvailabilityCommittee\":false,\"InitialArbOSVersion\":32,\"GenesisBlockNum\":0,\"MaxCodeSize\":24576,\"MaxInitCodeSize\":49152,\"InitialChainOwner\":\"0x787854005705c5e38a75Af0f153AD9566bEf0025\"},\"chainId\":8383},\"rollup\":{\"bridge\":\"0xB31a314BCeB162816e3A097988c7c5B5328F6503\",\"inbox\":\"0x5047c957CDa5295275cCEE9FbD494af9D32aA916\",\"sequencer-inbox\":\"0x6E2afc32C4B5350df6306e63365D8ef1d471a50a\",\"rollup\":\"0x4035E80820Cd530e30745e71edD99f7f3FC1611a\",\"validator-utils\":\"0x7C100c97a54e2D309a194752Df2f66922A802be3\",\"validator-wallet-creator\":\"0xFAd2C6Cb969Ab7B18d78BD63e512b650bb70B570\",\"deployed-at\":94586256}}]",
-    "name": "Fashion Chain Devnet"
+    "info-json": "[{\"chain-id\":21885418648,\"parent-chain-id\":421614,\"parent-chain-is-arbitrum\":true,\"chain-name\":\"Fashion Chain\",\"chain-config\":{\"homesteadBlock\":0,\"daoForkBlock\":null,\"daoForkSupport\":true,\"eip150Block\":0,\"eip150Hash\":\"0x0000000000000000000000000000000000000000000000000000000000000000\",\"eip155Block\":0,\"eip158Block\":0,\"byzantiumBlock\":0,\"constantinopleBlock\":0,\"petersburgBlock\":0,\"istanbulBlock\":0,\"muirGlacierBlock\":0,\"berlinBlock\":0,\"londonBlock\":0,\"clique\":{\"period\":0,\"epoch\":0},\"arbitrum\":{\"EnableArbOS\":true,\"AllowDebugPrecompiles\":false,\"DataAvailabilityCommittee\":false,\"InitialArbOSVersion\":32,\"GenesisBlockNum\":0,\"MaxCodeSize\":24576,\"MaxInitCodeSize\":49152,\"InitialChainOwner\":\"0x787854005705c5e38a75Af0f153AD9566bEf0025\"},\"chainId\":21885418648},\"rollup\":{\"bridge\":\"0xC01eF8f9bE79c65587F7Cf8398d0D001C9C60CE9\",\"inbox\":\"0xBdADa1E22c0FeC68d3538866A8707cC912D9b5b2\",\"sequencer-inbox\":\"0xfA7b0b43f819DfB4b9ff2Bd9F30b0C56cc6b24FC\",\"rollup\":\"0x7870cF17DAA6685Caa44f75Ce835eA39eF4C1622\",\"validator-utils\":\"0x7C100c97a54e2D309a194752Df2f66922A802be3\",\"validator-wallet-creator\":\"0xFAd2C6Cb969Ab7B18d78BD63e512b650bb70B570\",\"deployed-at\":99237407}}]",
+    "name": "Fashion Chain"
   },
   "parent-chain": {
     "connection": {
@@ -9,8 +9,8 @@
     }
   },
   "http": {
-    "addr": "127.0.0.1",
-    "port": 8080,
+    "addr": "0.0.0.0",
+    "port": 8449,
     "vhosts": [
       "*"
     ],
